@@ -17,4 +17,4 @@ The proposed project overall goal is to provide an accurate data sets for the pe
 - Develop a feasible solution to handle management activities in blood banks
 - Create an effective means of communication between donors, hospitals, donors and recipients.
 ## Methods
-![METHODS](https://user-images.githubusercontent.com/102384528/160636613-ce630243-0670-41ae-a006-236fad4aa36d.PNG)
+![image](https://user-images.githubusercontent.com/102384528/160641167-65eb3475-33cc-4ec0-a6b2-be9b4e94b6e0.png)
