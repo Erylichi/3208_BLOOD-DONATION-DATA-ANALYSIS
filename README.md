@@ -1,4 +1,4 @@
-# Blood-Donation-Data-Analysis
+# Philippine's Religion Data Archive; Affects in our Economy
 ![7ed5a76469b27e30e72697f5401d37b2](https://user-images.githubusercontent.com/102384528/160523278-e0f9bef8-7311-4395-9131-122b029d4a5c.gif)
 ## Introduction
 The donation blood is important because most often people requiring blood do not receive it on time or they kind find the specific blood they needed in which causing loss of life. Example of this cases are severe accidents, organ transplant, etc. especially the extreme health conditions sush as Leukemia and bone marrow cancer, which affected individuals experience sudden high blood loss and need an urgent supply of blood and do not have it. With the help of our Blood Donation Data Sets, tracking and  monitoring the supply of donors will improve and help the supply chain stable. It’s to make sure that more patients get the blood they needed for blood transfusion as soon as possible which can reduce the mortality risk. 
