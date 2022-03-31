@@ -20,3 +20,5 @@ The proposed project overall goal is to provide an accurate data sets for the pe
 ![image](https://user-images.githubusercontent.com/102384528/160641167-65eb3475-33cc-4ec0-a6b2-be9b4e94b6e0.png)
 
 Datasets link: https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center
+## Expected Output
+
