@@ -18,7 +18,7 @@ The proposed project overall goal is to provide an accurate data sets for the pe
 - To provide a datasets what ages has the most needed blood transfusions.
 ## This study will be beneficial for:
 - For blood banks, this data analytics project will be having an advantage to monitor and prepare which year has the most needed blood transfusion.
-- For students, who will require the information for future projects. This will aid them in developing a thorough grasp about the factors of teenage pregnancy
+- For students, who will require the information for future projects. This will aid them in developing a thorough grasp about the importance of donating bloods.
 - Future Researchers, this repository will serve as a guide for future researchers interested in doing a study comparable to this one. Future researchers are allowed to improve on these projects and utilize them as a reference.
 ## Methods
 ![image](https://user-images.githubusercontent.com/102384528/160641167-65eb3475-33cc-4ec0-a6b2-be9b4e94b6e0.png)
