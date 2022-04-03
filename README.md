@@ -11,6 +11,7 @@ The proposed project overall goal is to provide an accurate data sets for the pe
 - Develop a blood donations data sets to manage the records of blood donations.
 - Encourage people to donate blood on a voluntary basis.
 - To monitor the performance of transfusion services
+- To determine what type of blood needed the most.
 - Develop a feasible solution to handle management activities in blood banks.
 - To provide the means to examine the numbers of people who requires blood transfusion and number of blood donations.
 - To create a data sets which lead to greater understanding what kind of patient diseases who needs bloods.
