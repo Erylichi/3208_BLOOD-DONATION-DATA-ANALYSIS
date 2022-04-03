@@ -22,6 +22,10 @@ The proposed project overall goal is to provide an accurate data sets for the pe
 - For students, who will require the information for future projects. This will aid them in developing a thorough grasp about the importance of donating bloods.
 - Future Researchers, this repository will serve as a guide for future researchers interested in doing a study comparable to this one. Future researchers are allowed to improve on these projects and utilize them as a reference.
 ## Methods
+We chose the Quantitative Method as our method because it allows us to predict outcomes based on our hypothesis and develop a strategy for testing our predictions. So, what is Quantitative Method, and why is it significant in the field of blood donation? Quantitative methods provide a mechanism for us to learn about a specific group of people, referred to as a sample population. Quantitative analysis relies on data that we saw or measured to study and analyze it about the sample population.  So, supposing our forecast is correct, we may now evaluate the outcomes and draw final conclusions based on our predictions, as well as share our findings. Even if the hypothesis is disproved, we can simply construct a new hypothesis based on what we learnt from the prior one and repeat the process.
+
+We also chose Descriptive Analysis as a complement to our Quantitative Method. We can convey our findings in a meaningful way using descriptive analysis. Although it is important to note that this analysis will not allow us to anticipate future outcomes or provide answers to queries such as why something happened, it will organize your data and make it suitable for further examination and research.
+
 ![image](https://user-images.githubusercontent.com/102384528/160641167-65eb3475-33cc-4ec0-a6b2-be9b4e94b6e0.png)
 ## Expected Output
 ![275599836_340107154819851_3011918849049489673_n](https://user-images.githubusercontent.com/102384528/160980411-1e38796a-a626-412c-b699-5766783dc49e.png)
