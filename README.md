@@ -26,4 +26,6 @@ The proposed project overall goal is to provide an accurate data sets for the pe
 ![275599836_340107154819851_3011918849049489673_n](https://user-images.githubusercontent.com/102384528/160980411-1e38796a-a626-412c-b699-5766783dc49e.png)
 ## DATASET AND REPO
  https://archive.ics.uci.edu/ml/datasets/Blood+Transfusion+Service+Center
+ https://github.com/manishbendale/Exploratory-Data-Analysis-Blood-Transfusion-Service-Center-Dataset?fbclid=IwAR0tKTJimdzxJJvgaL0YWUx1hm4ecPt783tP0HEzlUS-C-d0nBlAIiOivVI
+ https://medium.com/@manishbendale85/exploratory-data-analysis-blood-transfusion-service-center-dataset-e8102f0036e9
 
