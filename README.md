@@ -7,8 +7,10 @@ With the rapid growth in the use of social networking sites around the world, th
 The present-day situation regarding the information of blood donors is a paper-based system that is enduring lack of central data references, which results in a time-consuming process for retrieving data in addition to lack of security of data and human error which needs an alarming system to circumvent. One of the problems currently in hospitals or blood banks which is very serious is the lack of blood supply during an emergency situation. The crucial need to transfer blood requires proper management to determine which blood group is available. The second problem which arises and that has led to the design of this data sets which in turn leads to human errors is that the vital information about the blood grouping, donor availability, tracing the data is complicated and time-consuming when it is done manually. Moreover, this manual based information requires a lot of manpower, data is also not secure. 
 ## Significance of the Study
 The proposed project overall goal is to provide an accurate data sets for the people who require blood transfusions urgently. They may quickly determine the numbers of blood donations and blood transfusions. Having this kind of data sets have it's own advantage,
+- To review the situation regard to supply of blood donations.
 - Develop a blood donations data sets to manage the records of blood donations.
 - Encourage people to donate blood on a voluntary basis.
+- To monitor the performance of transfusion services
 - Develop a feasible solution to handle management activities in blood banks.
 - To provide the means to examine the numbers of people who requires blood transfusion and number of blood donations.
 - To create a data sets which lead to greater understanding what kind of patient diseases who needs bloods.
